@@ -1,13 +1,12 @@
 "---Blogs---"
-https://feeds.feedburner.com/mrmoneymustache "~Mr. Money Mustache"
+https://feeds.feedburner.com/mrmoneymustache "~Mr. Money Mustache" money blog
 https://based.cooking/rss.xml "~Based Coocking"
-https://adamchandler.me/blog/feed/ "~Adam Chander"
+https://adamchandler.me/blog/feed/ "~Adam Chander" blog
 
 "---Linux Stuff--"
-https://lukesmith.xyz/rss.xml "~Unaboomer"
+https://lukesmith.xyz/rss.xml "~Unaboomer" linux blog
 https://www.archlinux.org/feeds/news/ "~Archlinux News"
-https://www.distrotube.com/index.xml "~Distrotube"
-https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA "~Luke Smith (YouTube)
+https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA "~Luke Smith (YouTube) youtube linux
 
 "---Bible Videos---"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCa1UQJkmTIQB7H5L-g5AeKw "~Bible Believers Baptist Church" preaching
@@ -19,10 +18,23 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCw3QOLQU2dbI6pUuDHGhwMQ "Jo
 https://www.youtube.com/feeds/videos.xml?channel_id=UCsv9JvWZVjLlfVtMzcYAleA "Don Nesbitt"
 
 "---Motorcycle Videos---"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCDYqIyyd-OAa1qGIYHP2OKA "Adam Chandler"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCuOiUxmorApqPIHKs-9nCag "Владимир Шулояков"
-https://www.youtube.com/feeds/videos.xml?channel_id=UC91W3IsVxcPPUR3f9R_-zbQ "tewster2"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCdCzEBaIZQy3JXzc06ByNAg "Bret Tkacs"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCNSMdQtn1SuFzCZjfK2C7dQ "FortNine"
-https://www.youtube.com/feeds/videos.xml?channel_id=UC0NfCCms5KosfsdbYQunFEQ "Motorcycle Adventures"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCDYqIyyd-OAa1qGIYHP2OKA "Adam Chandler" moto
+https://www.youtube.com/feeds/videos.xml?channel_id=UCuOiUxmorApqPIHKs-9nCag "Владимир Шулояков" moto
+https://www.youtube.com/feeds/videos.xml?channel_id=UC0VaJBL77wARLD8aCMfrgOA "Андрей Бересневич" moto
+https://www.youtube.com/feeds/videos.xml?channel_id=UC91W3IsVxcPPUR3f9R_-zbQ "tewster2" moto
+https://www.youtube.com/feeds/videos.xml?channel_id=UCdCzEBaIZQy3JXzc06ByNAg "Bret Tkacs" moto
+https://www.youtube.com/feeds/videos.xml?channel_id=UCNSMdQtn1SuFzCZjfK2C7dQ "FortNine" moto
+https://www.youtube.com/feeds/videos.xml?channel_id=UC0NfCCms5KosfsdbYQunFEQ "Motorcycle Adventures" moto
+https://www.youtube.com/feeds/videos.xml?channel_id=UCqNjawDop_oy2ZqGJEIs0pg "Backcountry Adventure Motorsports" moto
+https://www.youtube.com/feeds/videos.xml?channel_id=UCtHv1zzGSawcksbm7Vj3w6w "Motorcycle Travel Channel" moto
+https://www.youtube.com/feeds/videos.xml?channel_id=UCP-4Chw6UR0UtIAVfGFZvuw "SLON RUS" moto
+https://www.youtube.com/feeds/videos.xml?channel_id=UCwn9AheYpfc4F62EZKsOEhw "onherbike" moto
+https://www.youtube.com/feeds/videos.xml?channel_id=UCGWankrDBVbjUjhSR1aG-hQ "Lone Wolf Motorcycle Club" moto
+https://www.youtube.com/feeds/videos.xml?channel_id=UCEIs9nkveW9WmYtsOcJBwTg "Itchy Boots" moto
+https://www.youtube.com/feeds/videos.xml?channel_id=UC31hb1QSUDAHa5sokZig5Eg "Timon532" moto
 
+"---Podcasts---"
+ http://rss.sermonaudio.com/rss_source.rss?sourceid=bbbc-canton "~Mike Wheeler" podcast preaching
+ http://rss.sermonaudio.com/rss_source.rss?sourceid=bbbcjax podcast preaching
+ https://rss.sermonaudio.com/rss_source.rss?sourceid=cbcflorida&filter=mp3 podcast preaching
+ https://rss.sermonaudio.com/rss_source.rss?sourceid=holyhillsbaptist&filter=mp3 podcast preaching
