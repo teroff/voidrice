@@ -29,3 +29,15 @@ macro t set browser "surf" ; open-in-browser ; set browser linkhandler
 macro a set browser "tsp youtube-dl --add-metadata -xic -f bestaudio/best" ; open-in-browser ; set browser linkhandler
 macro v set browser "setsid -f mpv" ; open-in-browser ; set browser linkhandler
 macro w set browser "lynx" ; open-in-browser ; set browser linkhandler
+
+# Newsboat article settings
+save-path "~/Document/Neswboat Articles"
+
+# Podboat Settings
+podcast-auto-enqueue yes
+download-path "~/Audio/Podcasts/%n/%Y/%m"
+download-filename-format "%n - %t.%e"
+podlist-filename-format "[%i] [%-2t MB] [%-3p %%] [%-9S] %b"
+delete-played-files yes
+maxp-download 5
+player mpv
