@@ -31,7 +31,7 @@ macro v set browser "setsid -f mpv" ; open-in-browser ; set browser linkhandler
 macro w set browser "lynx" ; open-in-browser ; set browser linkhandler
 
 # Newsboat article settings
-save-path "~/Document/Neswboat Articles"
+save-path "~/Documents/Neswboat Articles"
 
 # Podboat Settings
 podcast-auto-enqueue yes
