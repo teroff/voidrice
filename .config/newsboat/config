@@ -37,7 +37,7 @@ save-path "~/Documents/Neswboat Articles"
 podcast-auto-enqueue yes
 download-path "~/Audio/Podcasts/%n/%Y/%m"
 download-filename-format "%n - %t.%e"
-podlist-filename-format "[%i] [%-2t MB] [%-3p %%] [%-9S] %b"
+podlist-format "[%i] [%-2t MB] [%-3p %%] [%-9S] %b"
 delete-played-files yes
-maxp-download 5
+max-downloads 5
 player mpv
