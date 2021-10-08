@@ -1,6 +1,26 @@
 " Config file for vim ~/.vimrc
 "
-" Stanislav Kozin ver 0.1  07-15-2020
+" Stanislav Kozin ver 0.2 4-20-2021
+" Updated clean-up stuff for vim
+
+set runtimepath^=$XDG_CONFIG_HOME/vim
+set runtimepath+=$XDG_DATA_HOME/vim
+set runtimepath+=$XDG_CONFIG_HOME/vim/after
+
+set packpath^=$XDG_DATA_HOME/vim,$XDG_CONFIG_HOME/vim
+set packpath+=$XDG_CONFIG_HOME/vim/after,$XDG_DATA_HOME/vim/after
+
+let g:netrw_home = $XDG_DATA_HOME."/vim"
+call mkdir($XDG_DATA_HOME."/vim/spell", 'p')
+set viewdir=$XDG_DATA_HOME/vim/view | call mkdir(&viewdir, 'p')
+
+set backupdir=$XDG_CACHE_HOME/vim/backup | call mkdir(&backupdir, 'p')
+set directory=$XDG_CACHE_HOME/vim/swap   | call mkdir(&directory, 'p')
+set undodir=$XDG_CACHE_HOME/vim/undo     | call mkdir(&undodir,   'p')
+
+if !has('nvim') | set viminfofile=$XDG_CACHE_HOME/vim/viminfo | endif
+
+" End for clean-up stuff in vim
 
 " Keyboard binding and plugins
 	let mapleader=" "
@@ -15,7 +35,6 @@
 	set tabstop=4 softtabstop=4
 	set ruler
 	set noswapfile
-	set undodir=~/.vim/undodir
 	set undofile
 	set noerrorbells
 	set showbreak=+++
@@ -30,8 +49,8 @@
 " Colors and text
 	colorscheme desert
 "	set termguicolors
-"	set colorcolumn=80
-	set textwidth=79
+	set colorcolumn=80
+"	set textwidth=80
 
 " Enable autocomplete
 	set wildmode=longest,list,full
@@ -72,3 +91,5 @@
     nnoremap <C-L> <C-W><C-L>
     nnoremap <C-H> <C-W><C-H>
 
+" User urlview to choose and open a url:
+    :noremap <leader>u :w<Home>silent <End> !urlview<CR>
