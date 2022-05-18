@@ -1,28 +1,18 @@
-"---Blogs---"
+"---Money---"
 https://feeds.feedburner.com/mrmoneymustache "~Mr. Money Mustache" money blog
-https://based.cooking/rss.xml "~Based Coocking"
+https://jlcollinsnh.com/feed/ "JL Collins" money blog
+
+"---Moto---"
 https://adamchandler.me/blog/feed/ "~Adam Chander" blog
 https://slonrus.blogspot.com/feeds/posts/default?alt=rss "~Slon Rus" blog moto
-https://www.nohighways.com/feed/ "~No Highways" blog moto
-https://landchad.net/rss.xml "~LandChad" blog linux tech
-https://feeds.feedburner.com/mrmurtazin "~Mr Murtazin" blog
-https://www.streetpreaching.com/feed/ "~Gerald Sutek" preaching
-
 
 "---Linux Stuff--"
-https://lukesmith.xyz/rss.xml "~Unaboomer" linux blog
 https://www.archlinux.org/feeds/news/ "~Archlinux News"
+https://lukesmith.xyz/rss.xml "~Unaboomer" linux blog
+https://landchad.net/rss.xml "~LandChad" blog linux tech
 https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA "~Luke Smith (YouTube) youtube linux
-
-"---Bible Videos---"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCB-Asg1xgM2Ddsk4N48bbQQ "~Sam Gipp" preaching
-https://www.youtube.com/feeds/videos.xml?channel_id=UCukS9552sn4-E6tMuW1CbjQ "~FBCSmyrna"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCYOZeQzsLj9pguvHiFaG2Kg "~Anchor Of The Soul"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCdlP7t8hHbJkwI8P9cuoNZg "~Церковь Библейских Верующих Киева"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCsv9JvWZVjLlfVtMzcYAleA "~Don Nesbitt"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCPCDmYOJJ08h-pG8J2iMDjA "~Gene Kim"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCB0WnfWOiGTzO4stgq1RI5g "~Randy Gorsky"
-https://www.youtube.com/feeds/videos.xml?channel_id=UC-ZLzE3yTYReCjjJIh-NJRQ "~Matt Crane"
+http://ratfactor.com/atom.xml "~Ratfactor Dave Gauer" blog linux
+https://unixsheikh.com/feed.rss blog linux tech
 
 "---Motorcycle Videos---"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCDYqIyyd-OAa1qGIYHP2OKA "~Adam Chandler Youtube" moto
@@ -35,10 +25,12 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UC0NfCCms5KosfsdbYQunFEQ "~M
 https://www.youtube.com/feeds/videos.xml?channel_id=UCqNjawDop_oy2ZqGJEIs0pg "~Backcountry Adventure Motorsports" moto
 https://www.youtube.com/feeds/videos.xml?channel_id=UCtHv1zzGSawcksbm7Vj3w6w "~Motorcycle Travel Channel" moto
 https://www.youtube.com/feeds/videos.xml?channel_id=UCP-4Chw6UR0UtIAVfGFZvuw "~SLON RUS" moto
-https://www.youtube.com/feeds/videos.xml?channel_id=UCwn9AheYpfc4F62EZKsOEhw "~onherbike" moto
 https://www.youtube.com/feeds/videos.xml?channel_id=UCGWankrDBVbjUjhSR1aG-hQ "~Lone Wolf Motorcycle Club" moto
 https://www.youtube.com/feeds/videos.xml?channel_id=UC31hb1QSUDAHa5sokZig5Eg "~Timon532" moto
-https://www.youtube.com/feeds/videos.xml?channel_id=UCzwl3WOpGBUoy6bbyV9Bpyg "Adventure Spec" moto
+https://www.youtube.com/feeds/videos.xml?channel_id=UCVnui4ltebLkiRT7Ancw2nQ "~MotoRoSt" moto travel
+https://www.youtube.com/feeds/videos.xml?channel_id=UCxVQaUnNBOjqg7Y-nZsnVhQ "~Сергей Гесь" moto travel
+https://www.youtube.com/feeds/videos.xml?channel_id=UC69X44bfD6nG6mY5FmX4n2w "~Nagiv ADV" moto travel
+https://www.youtube.com/feeds/videos.xml?channel_id=UCvQ3GhcWwEF0DwP1_0MYZ5Q "~Вадим Калугин" moto travel
 
 "---Podcasts---"
 http://rss.sermonaudio.com/rss_source.rss?sourceid=bbbc-canton "~Mike Wheeler" podcast preaching
@@ -47,3 +39,14 @@ https://rss.sermonaudio.com/rss_source.rss?sourceid=cbcflorida&filter=mp3 podcas
 https://rss.sermonaudio.com/rss_source.rss?sourceid=holyhillsbaptist&filter=mp3 podcast preaching
 https://podcasts.apple.com/us/podcast/truths-melee/id1474010976 "~Truth Melee" podcast preaching
 https://adventureriderpodcast.libsyn.com/rss "~Adventure Rider Radio" podcast moto
+
+"---Bible---"
+https://www.streetpreaching.com/feed/ "~Gerald Sutek" preaching
+https://www.youtube.com/feeds/videos.xml?channel_id=UCB-Asg1xgM2Ddsk4N48bbQQ "~Sam Gipp" preaching
+https://www.youtube.com/feeds/videos.xml?channel_id=UCukS9552sn4-E6tMuW1CbjQ "~FBCSmyrna"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCYOZeQzsLj9pguvHiFaG2Kg "~Anchor Of The Soul"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCdlP7t8hHbJkwI8P9cuoNZg "~Церковь Библейских Верующих Киева"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCsv9JvWZVjLlfVtMzcYAleA "~Don Nesbitt"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCPCDmYOJJ08h-pG8J2iMDjA "~Gene Kim"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCB0WnfWOiGTzO4stgq1RI5g "~Randy Gorsky"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC-ZLzE3yTYReCjjJIh-NJRQ "~Matt Crane"
