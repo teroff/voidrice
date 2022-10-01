@@ -1,10 +1,12 @@
 "---Money---"
 https://feeds.feedburner.com/mrmoneymustache "~Mr. Money Mustache" money blog
-https://jlcollinsnh.com/feed/ "JL Collins" money blog
+https://jlcollinsnh.com/feed/ "~JL Collins" money blog
 
 "---Moto---"
-https://adamchandler.me/blog/feed/ "~Adam Chander" blog
 https://slonrus.blogspot.com/feeds/posts/default?alt=rss "~Slon Rus" blog moto
+
+"---Blogs--"
+https://adamchandler.me/blog/feed/ "~Adam Chander" blog
 
 "---Linux Stuff--"
 https://www.archlinux.org/feeds/news/ "~Archlinux News"
@@ -30,13 +32,8 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCxVQaUnNBOjqg7Y-nZsnVhQ "~�
 https://www.youtube.com/feeds/videos.xml?channel_id=UC69X44bfD6nG6mY5FmX4n2w "~Nagiv ADV" moto travel
 https://www.youtube.com/feeds/videos.xml?channel_id=UCvQ3GhcWwEF0DwP1_0MYZ5Q "~Вадим Калугин" moto travel
 
-"---Podcasts---"
-http://rss.sermonaudio.com/rss_source.rss?sourceid=bbbc-canton "~Mike Wheeler" podcast preaching
-http://rss.sermonaudio.com/rss_source.rss?sourceid=bbbcjax podcast preaching
-https://rss.sermonaudio.com/rss_source.rss?sourceid=cbcflorida&filter=mp3 podcast preaching
-https://rss.sermonaudio.com/rss_source.rss?sourceid=holyhillsbaptist&filter=mp3 podcast preaching
-https://podcasts.apple.com/us/podcast/truths-melee/id1474010976 "~Truth Melee" podcast preaching
-https://adventureriderpodcast.libsyn.com/rss "~Adventure Rider Radio" podcast moto
+"---YouTube Blogs---"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCJ24N4O0bP7LGLBDvye7oCA "~Matt D'Avella" yt
 
 "---Bible---"
 https://www.streetpreaching.com/feed/ "~Gerald Sutek" preaching
@@ -44,5 +41,15 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCB-Asg1xgM2Ddsk4N48bbQQ "~S
 https://www.youtube.com/feeds/videos.xml?channel_id=UCukS9552sn4-E6tMuW1CbjQ "~FBCSmyrna"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCYOZeQzsLj9pguvHiFaG2Kg "~Anchor Of The Soul"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCdlP7t8hHbJkwI8P9cuoNZg "~Церковь Библейских Верующих Киева"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCPCDmYOJJ08h-pG8J2iMDjA "~Gene Kim"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCB0WnfWOiGTzO4stgq1RI5g "~Randy Gorsky"
+
+"---Podcasts---"
+https://rss.sermonaudio.com/rss_source.rss?sourceid=holyhillsbaptist&filter=mp3 "~Holy Hills Baptist Church" podcast kjv
+https://anchor.fm/s/2e116a74/podcast/rss "~Real Bible Believers" podcast kjv
+https://rss.sermonaudio.com/rss_source.rss?sourceid=cbcflorida "~Dr. David Walker" podcast kjv
+https://rss.sermonaudio.com/rss_source.rss?sourceid=bbbcjax "~Dr. David Peacock" podcast kjv
+http://rss.sermonaudio.com/rss_source.rss?sourceid=bbbc-canton "~Dr. Mike Wheeler" podcast kjv
+https://www.sermonaudio.com/rss_source.asp?sourceid=bbcosl "~Pastor Mike Ragan" podcast kjv
+https://feeds.megaphone.fm/WWO9873389006 "~The Cold War: Prelude To The Present" podcast
+https://feed.podbean.com/www.thewordofaking.com/feed.xml "~The WORD of a KING" podcast
+https://adventureriderpodcast.libsyn.com/rss "~Adventure Rider Radio" podcast moto

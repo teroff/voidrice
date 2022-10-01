@@ -21,6 +21,25 @@ bind-key U show-urls
 bind-key x pb-delete
 bind-key D pb-download
 
+# Display Format Configs
+datetime-format %D
+display-article-progress yes
+always-display-description yes
+
+# Formats and Colors
+highlight feedlist "^ *[0-9]+ *N " color15 color0
+highlight articlelist "^ *[0-9]+ *N " color15 color0
+
+highlight all "---Moto---" color133 black bold
+highlight all "---Money---" color119 black bold
+highlight all "---YouTube Blogs---" color12 black bold
+highlight all "---Motorcycle Videos---" color208 black bold
+highlight all "---Blogs--" color166 black bold
+highlight all "---Linux Stuff--" color7 black bold
+highlight all "---Bible---" color15 black bold
+highlight all "---Podcasts---" color248 black bold
+save-path "~/Documents/Newboat"
+highlight article "^(Feed|Title|Author|Link|Date|Linux):.*" color75 default
 
 # Browser and linkhandler settings
 browser linkhandler
