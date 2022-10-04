@@ -1,0 +1,18 @@
+" My local vim config for Mac OS, nothing bloat just basic
+
+" some basic stuff that I can't live without
+
+syntax on
+set encoding=utf-8
+set number relativenumber
+set ruler
+set autoindent
+set tabstop=4
+set softtabstop=4
+set showbreak=+++
+
+" colors and themes
+colorscheme xoria256
+
+" Add 4 spaces for each tab
+set ts=4
