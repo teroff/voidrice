@@ -1,0 +1,15 @@
+alias HomeServer='ssh teroff@homeserver.local'
+alias HomeGit='ssh git@homeserver.local'
+alias ls='ls -la'
+alias v='vim'
+alias updatesite='scp -r ~/Repository/Home/kozin.cc/public/* kozin.cc:/var/www/kozin'
+
+
+# Folders Navigation
+alias gdf='cd ~/Downloads'
+alias homerepo='cd ~/Repository/Home'
+alias workrepo='cd ~/Repository/Work'
+
+# Some Random Helpful Stuff
+alias myip='curl ipinfo.io/ip'
+alias history='history 1'
