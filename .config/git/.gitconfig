@@ -1,0 +1,13 @@
+[includeIf "gitdir:~/Repository/Work/"]
+    path = .gitconfig-work
+
+[includeIf "gitdir:~/Repository/Home/"]
+    path = .gitconfig-home
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+#[user]
+#	name = Stanley Kozin
+#	email = skozin@tnsinc.com
