@@ -13,3 +13,7 @@ alias workrepo='cd ~/Repository/Work'
 # Some Random Helpful Stuff
 alias myip='curl ipinfo.io/ip'
 alias history='history 1'
+
+# Bastion DB
+alias db_auth='tsh login --proxy=bastion.aws.trackstaging.info:443 --auth=local --user=skozin'
+alias db_connect='tsh db login --db-user=dbuser stg-1'
