@@ -1,51 +1,61 @@
-"---Money---"
-https://feeds.feedburner.com/mrmoneymustache "~Mr. Money Mustache" money blog
-https://jlcollinsnh.com/feed/ "~JL Collins" money blog
+# unread articles tagges money
+"query:Money:unread = \"yes\" and tags # \"\money\""
 
-"---Moto---"
-https://slonrus.blogspot.com/feeds/posts/default?alt=rss "~Slon Rus" blog moto
+# unred articles tagged moto
+"query:Mototravel:unread = \"yes\" and tags # \"\mototravel\""
 
 "---Blogs--"
 https://adamchandler.me/blog/feed/ "~Adam Chander" blog
+https://vkc.sh/feed/ "~Veronica Explains" linux blog
+https://feeds.feedburner.com/mrmoneymustache "~Mr. Money Mustache" money blog
+https://jlcollinsnh.com/feed/ "~JL Collins" money blog
+https://www.1500days.com/feed/ "~Mr 1500 Days" money blog
+https://slonrus.blogspot.com/feeds/posts/default?alt=rss "~Slon Rus" blog moto
 
-"---Linux Stuff--"
-https://www.archlinux.org/feeds/news/ "~Archlinux News"
+"---Linux & CS Stuff--"
+https://www.archlinux.org/feeds/news/ "~Archlinux News" linux
+https://www.debian.org/News/news "~Debian News" linux
+https://bits.debian.org/feeds/feed.rss "~Debian Blog" linux
 https://lukesmith.xyz/rss.xml "~Unaboomer" linux blog
 https://landchad.net/rss.xml "~LandChad" blog linux tech
 https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA "~Luke Smith (YouTube)" youtube linux
-http://ratfactor.com/atom.xml "~Ratfactor Dave Gauer" blog linux
 https://unixsheikh.com/feed.rss blog linux tech
+https://www.youtube.com/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA
+https://www.youtube.com/feeds/videos.xml?channel_id=UCrqM0Ym_NbK1fqeQG2VIohg "~Tsoding Daily" coding
+https://www.youtube.com/feeds/videos.xml?channel_id=UCEbYhDd6c6vngsF5PQpFVWg "~Tsodin" coding
 
-"---Motorcycle Videos---"
-https://www.youtube.com/feeds/videos.xml?channel_id=UC0VaJBL77wARLD8aCMfrgOA "~Андрей Бересневич" moto
-https://www.youtube.com/feeds/videos.xml?channel_id=UCKcdw_9RFaNscaB213AHrsw "~Motorcyle Adventures Brazilian" moto
-https://www.youtube.com/feeds/videos.xml?channel_id=UCEIs9nkveW9WmYtsOcJBwTg "~Itchy Boots" moto
-https://www.youtube.com/feeds/videos.xml?channel_id=UCdCzEBaIZQy3JXzc06ByNAg "~Bret Tkacs" moto
+"---Motorcycle Adventure---"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC0VaJBL77wARLD8aCMfrgOA "~Андрей Бересневич" mototravel
+https://www.youtube.com/feeds/videos.xml?channel_id=UCEIs9nkveW9WmYtsOcJBwTg "~Itchy Boots" mototravel
 https://www.youtube.com/feeds/videos.xml?channel_id=UCNSMdQtn1SuFzCZjfK2C7dQ "~FortNine" moto
-https://www.youtube.com/feeds/videos.xml?channel_id=UC0NfCCms5KosfsdbYQunFEQ "~Motorcycle Adventures Bulgarian" moto
-https://www.youtube.com/feeds/videos.xml?channel_id=UCtHv1zzGSawcksbm7Vj3w6w "~Noren Sterling" moto
-https://www.youtube.com/feeds/videos.xml?channel_id=UCP-4Chw6UR0UtIAVfGFZvuw "~SLON RUS" moto
-https://www.youtube.com/feeds/videos.xml?channel_id=UCGWankrDBVbjUjhSR1aG-hQ "~Lone Wolf Motorcycle Club" moto
-https://www.youtube.com/feeds/videos.xml?channel_id=UC31hb1QSUDAHa5sokZig5Eg "~Timon532" moto
-https://www.youtube.com/feeds/videos.xml?channel_id=UCVnui4ltebLkiRT7Ancw2nQ "~MotoRoSt" moto travel
-https://www.youtube.com/feeds/videos.xml?channel_id=UCxVQaUnNBOjqg7Y-nZsnVhQ "~Сергей Гесь" moto travel
-https://www.youtube.com/feeds/videos.xml?channel_id=UCvQ3GhcWwEF0DwP1_0MYZ5Q "~Вадим Калугин" moto travel
+https://www.youtube.com/feeds/videos.xml?channel_id=UC0NfCCms5KosfsdbYQunFEQ "~Motorcycle Adventures Bulgarian" mototravel
+https://www.youtube.com/feeds/videos.xml?channel_id=UCtHv1zzGSawcksbm7Vj3w6w "~Noren Sterling" mototravel
+https://www.youtube.com/feeds/videos.xml?channel_id=UCP-4Chw6UR0UtIAVfGFZvuw "~SLON RUS" mototravel
+https://www.youtube.com/feeds/videos.xml?channel_id=UC31hb1QSUDAHa5sokZig5Eg "~Timon532" mototravel
+https://www.youtube.com/feeds/videos.xml?channel_id=UCVnui4ltebLkiRT7Ancw2nQ "~MotoRoSt" mototravel
+https://www.youtube.com/feeds/videos.xml?channel_id=UCxVQaUnNBOjqg7Y-nZsnVhQ "~Сергей Гесь" mototravel
+https://www.youtube.com/feeds/videos.xml?channel_id=UCvQ3GhcWwEF0DwP1_0MYZ5Q "~Вадим Калугин" mototravel
+https://www.youtube.com/feeds/videos.xml?channel_id=UCNttYYf1q2RVWkc0Rhulmdw "~Ruslav Verin" travel
+https://www.youtube.com/feeds/videos.xml?channel_id=UCY3mZIqfQh71JZBiWTQ3I7A "~ARiemann1" moto
+https://www.youtube.com/feeds/videos.xml?channel_id=UCDchtzYOrSgb0652enpM1fw "~Two Wheels Three Sheets" mototravel
+
+"--QA---"
+https://www.tjmaher.com/feeds/posts/default?alt=rss
+https://www.youtube.com/feeds/videos.xml?channel_id=UC46Zj8pDH5tDosqm1gd7WTg "~Playwright" qa automation
+https://www.youtube.com/feeds/videos.xml?channel_id=UCyoM19qaAlIEYPgDBy12a0w "~Karate" qa automation
+https://testing.googleblog.com/feeds/posts/default?alt=rss qa
 
 "---YouTube Blogs---"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCJ24N4O0bP7LGLBDvye7oCA "~Matt D'Avella" yt
 https://www.youtube.com/feeds/videos.xml?channel_id=UCN2UQVe6Xaqz5rLFaWq8-mw "~Military 1945" yt history
 https://www.youtube.com/feeds/videos.xml?channel_id=UCshVweYiHqrepiq6b8tWvLQ "~Janus Cycle" tech
-https://www.youtube.com/feeds/videos.xml?channel_id=UCJohtR7UmjJ0n3AVaa5TYaQ "~Commonwealth Flipper" ebay
-https://www.youtube.com/feeds/videos.xml?channel_id=UC0e3opCQHILN0T7taQT43Nw "~Commonwealth Picker" ebay
+https://www.youtube.com/feeds/videos.xml?channel_id=UCl2mFZoRqjw_ELax4Yisf6w "~Louis Rossmann" it
+https://www.youtube.com/feeds/videos.xml?channel_id=UC6dr32gbapkzgw_Eyr6VsJw "~Mark Lewis" sport
+https://www.youtube.com/feeds/videos.xml?channel_id=UCOppapmiri__CN5uIQCnmOA "~Wings Over T.O." aviation
 
 "---Bible---"
 https://www.streetpreaching.com/feed/ "~Gerald Sutek" preaching
-https://www.youtube.com/feeds/videos.xml?channel_id=UCB-Asg1xgM2Ddsk4N48bbQQ "~Sam Gipp" preaching
-https://www.youtube.com/feeds/videos.xml?channel_id=UCukS9552sn4-E6tMuW1CbjQ "~FBCSmyrna"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCYOZeQzsLj9pguvHiFaG2Kg "~Anchor Of The Soul"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCdlP7t8hHbJkwI8P9cuoNZg "~Церковь Библейских Верующих Киева"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCctXuPorHnV0NyS0wXIBnqA "~ББЦ Троица"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCB0WnfWOiGTzO4stgq1RI5g "~Randy Gorsky"
 
 "---Podcasts---"
 https://rss.sermonaudio.com/rss_source.rss?sourceid=holyhillsbaptist&filter=mp3 "~Holy Hills Baptist Church" podcast kjv

@@ -6,6 +6,7 @@ PS1="%B%{$fg[red]%}[%{$fg[yellow]%}%n%{$fg[green]%}@%{$fg[blue]%}%M %{$fg[magent
 HISTSIZE=10000
 SAVEHIST=10000
 HISTFILE=~/.cache/zsh/history
+export HISTCONTROL=ignoreboth
 
 # Basic auto/tab complete:
 autoload -U compinit
@@ -47,3 +48,5 @@ zle-line-init() {
 zle -N zle-line-init
 echo -ne '\e[5 q' # Use beam shape cursor on startup.
 preexec() { echo -ne '\e[5 q' ;} # Use beam shape cursor for each new prompt.
+
+[ -f "/Users/skozin/.ghcup/env" ] && source "/Users/skozin/.ghcup/env" # ghcup-env
