@@ -4,6 +4,9 @@
 # unred articles tagged moto
 "query:Mototravel:unread = \"yes\" and tags # \"\mototravel\""
 
+#coding
+"query:Coding:unread = \"yes\" and tags #\"\coding\""
+
 "---Blogs--"
 https://adamchandler.me/blog/feed/ "~Adam Chander" blog
 https://vkc.sh/feed/ "~Veronica Explains" linux blog
@@ -11,6 +14,7 @@ https://feeds.feedburner.com/mrmoneymustache "~Mr. Money Mustache" money blog
 https://jlcollinsnh.com/feed/ "~JL Collins" money blog
 https://www.1500days.com/feed/ "~Mr 1500 Days" money blog
 https://slonrus.blogspot.com/feeds/posts/default?alt=rss "~Slon Rus" blog moto
+https://blog.cleancoder.com/atom.xml coding
 
 "---Linux & CS Stuff--"
 https://www.archlinux.org/feeds/news/ "~Archlinux News" linux
@@ -23,6 +27,8 @@ https://unixsheikh.com/feed.rss blog linux tech
 https://www.youtube.com/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA
 https://www.youtube.com/feeds/videos.xml?channel_id=UCrqM0Ym_NbK1fqeQG2VIohg "~Tsoding Daily" coding
 https://www.youtube.com/feeds/videos.xml?channel_id=UCEbYhDd6c6vngsF5PQpFVWg "~Tsodin" coding
+https://www.youtube.com/feeds/videos.xml?channel_id=UCUyeluBRhGPCW4rPe_UvBZQ "~ThePrimeTime" coding
+https://www.youtube.com/feeds/videos.xml?channel_id=UC8ENHE5xdFSwx71u3fDH5Xw "ThePrimegean" coding
 
 "---Motorcycle Adventure---"
 https://www.youtube.com/feeds/videos.xml?channel_id=UC0VaJBL77wARLD8aCMfrgOA "~Андрей Бересневич" mototravel
