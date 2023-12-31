@@ -5,24 +5,27 @@ alias v='vim'
 alias updatesite='scp -r ~/Repository/Home/kozin.cc/public/* kozin.cc:/var/www/kozin'
 alias mv="mv -i"
 alias rm="rm -i"
+alias mkdir="mkdir -pv"
 alias grep='grep --color=auto'
 
 # Folders Navigation
-alias gdf='cd ~/Downloads'
+alias dwn='cd ~/Downloads'
+alias ..="cd .."
 alias homerepo='cd ~/Repository/Home'
 alias workrepo='cd ~/Repository/Work'
+alias pwui='cd ~/Repository/Work/qa-ui-automation'
 
 # Some Random Helpful Stuff
 alias myip='curl ipinfo.io/ip'
 alias history='history 1'
 
 # Bastion DB
-alias db_auth_1='tsh db login --db-user=dbuser stg-1 && tsh proxy db --port=10000 stg-1'
-alias db_auth_2='tsh db login --db-user=dbuser stg-2 && tsh proxy db --port=20000 stg-2'
-alias db_auth_3='tsh db login --db-user=dbuser stg-3 && tsh proxy db --port=30000 stg-3'
-alias db_auth_4='tsh db login --db-user=dbuser stg-4 && tsh proxy db --port=40000 stg-4'
+alias db_auth_1='tsh db login --db-user=dbuser stg-1-rds-us-east-1-509218178996 && tsh proxy db --port=10000 stg-1-rds-us-east-1-509218178996'
+alias db_auth_2='tsh db login --db-user=dbuser stg-2-rds-us-east-1-509218178996 && tsh proxy db --port=20000 stg-2-rds-us-east-1-509218178996'
+alias db_auth_3='tsh db login --db-user=dbuser stg-3-rds-us-east-1-509218178996 && tsh proxy db --port=30000 stg-3-rds-us-east-1-509218178996' 
+alias db_auth_4='tsh db login --db-user=dbuser stg-4-rds-us-east-1-509218178996 && tsh proxy db --port=40000 stg-4-rds-us-east-1-509218178996' 
 alias db_auth_6='tsh db login --db-user=dbuser stg-6 && tsh proxy db --port=60000 stg-6'
-alias db_auth_5='tsh db login --db-user=dbuser stg-5-aurora-cluster && tsh proxy db --port=50000 stg-5-aurora-cluster'
+alias db_auth_5='tsh db login --db-user=dbuser stg-5-aurora-cluster-rds-us-east-1-509218178996 && tsh proxy db --port=50000 stg-5-aurora-cluster-rds-us-east-1-509218178996'
 
 # Github
 alias gp='git pull'
@@ -33,4 +36,9 @@ gc() {
 
 gd() {
 	git branch -d $1
+}
+
+c() {
+	local msg="$@"
+	git commit -am $msg
 }
