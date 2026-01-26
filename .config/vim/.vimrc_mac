@@ -7,13 +7,20 @@ set encoding=utf-8
 set number relativenumber
 set ruler
 set autoindent
+set smartindent
 set tabstop=4
+set shiftwidth=4
 set softtabstop=4
 set showbreak=+++
-set showmatch	
+set showmatch
+set termguicolors
 
 " colors and themes
 colorscheme xoria256
 
 " Add 4 spaces for each tab
 set ts=4
+
+" The 80 Rules
+nnoremap <Leader>bc :set colorcolumn=80<cr>
+nnoremap <Leader>nbc :set colorcolumn=-80<cr>

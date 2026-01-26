@@ -1,6 +1,5 @@
 alias HomeServer='ssh HomeServer'
 alias HomeGit='ssh git@homeserver.local'
-alias KitchenMac='ssh KitchenMac'
 alias ls='ls -la --color=auto'
 alias v='vim'
 alias updatesite='scp -r ~/Repository/Home/kozin.cc/public/* kozin.cc:/var/www/kozin'
@@ -8,11 +7,10 @@ alias mv="mv -i"
 alias rm="rm -i"
 alias mkdir="mkdir -pv"
 alias grep='grep --color=auto'
-alias emacs="emacs -Q -nw"
 
 # Automation Stuf
 alias karatestaging='mvn test -Dkarate.env=TrackSTAGING -Dkarate.options="--tags ~@bug --tags ~@flaky" -DupdateTestRail=true'
-alias dpw='docker run --rm --network host -v $(pwd):/work/ -w /work/ -it mcr.microsoft.com/playwright:v1.56.0-noble /bin/bash'
+alias dpw='docker run --rm --network host -v $(pwd):/work/ -w /work/ -it mcr.microsoft.com/playwright:v1.48.2-noble /bin/bash'
 
 # Folders Navigation
 alias dwn='cd ~/Downloads'

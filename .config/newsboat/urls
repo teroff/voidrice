@@ -1,84 +1,56 @@
-# unred articles tagged moto
-"query:Mototravel:unread = \"yes\" and tags # \"\mototravel\""
-
-#coding
-"query:Coding:unread = \"yes\" and tags #\"\coding\""
-
 "---Blogs--"
-https://adamchandler.me/blog/feed/ "~Adam Chander" blog
-https://vkc.sh/feed/ "~Veronica Explains" linux blog
 https://jlcollinsnh.com/feed/ "~JL Collins" money blog
 https://slonrus.blogspot.com/feeds/posts/default?alt=rss "~Slon Rus" blog moto
-https://blog.cleancoder.com/atom.xml coding
-https://calnewport.com/feed/
-https://philofaxy.blogspot.com/feeds/posts/default?alt=rss "~phiLOFAXY"
+https://calnewport.com/feed/ "~Cal Newport"
+https://travelerscompanyusa.com/feed/ "~Traveler's Company USA" notebook
+https://fieldnotesbrand.com/feed.rss "~Filed Notes Dispatches" notebook
+https://www.notebookstories.com/feed "~Notebook Stories" notebook
+https://www.nerosnotes.co.uk/blogs/news.atom "~Nero's Notes" notebook
+https://bleistift.blog/feed/ "~Bleistift" notebook
+https://inktronics.wordpress.com/feed/ notebook
+http://www.thecramped.com/feed/ "~The Cramped" notebook
+https://blog.travelers-company.com/index.xml "~Traveler's Diary" notebook
+https://fjradventures.blogspot.com/feeds/posts/default?alt=rss "~FJR Adventures" mototravel
+https://analogoffice.net/feed.xml
+https://p.umputun.com/index.xml "~Blog Umputun"
 
 "---Linux & CS Stuff--"
 https://www.archlinux.org/feeds/news/ "~Archlinux News" linux
-https://www.debian.org/News/news "~Debian News" linux
-https://bits.debian.org/feeds/feed.rss "~Debian Blog" linux
 https://lukesmith.xyz/rss.xml "~Unaboomer" linux blog
-https://landchad.net/rss.xml "~LandChad" blog linux tech
-https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmyoutubeImy1mTYvhA "~Luke Smith (YouTube)" yt linux
-https://unixsheikh.com/feed.rss blog linux tech
+https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA "~Luke Smith" linux
 https://www.youtube.com/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA
-https://www.youtube.com/feeds/videos.xml?channel_id=UCrqM0Ym_NbK1fqeQG2VIohg "~Tsoding Daily" coding
-https://www.youtube.com/feeds/videos.xml?channel_id=UCEbYhDd6c6vngsF5PQpFVWg "~Tsodin" coding
-https://www.youtube.com/feeds/videos.xml?channel_id=UCMiyV_Ib77XLpzHPQH_q0qQ "~Veronica Explains" linux
+https://blog.pragmaticengineer.com/rss/ "~The Pragmatic Engineer" engineer
+https://martinfowler.com/feed.atom
 
 "---Motorcycle Adventure---"
-https://www.youtube.com/feeds/videos.xml?channel_id=UC0VaJBL77wARLD8aCMfrgOA "~Андрей Бересневич" mototravel
-https://www.youtube.com/feeds/videos.xml?channel_id=UCEIs9nkveW9WmYtsOcJBwTg "~Itchy Boots" mototravel
 https://www.youtube.com/feeds/videos.xml?channel_id=UCNSMdQtn1SuFzCZjfK2C7dQ "~FortNine" moto
-https://www.youtube.com/feeds/videos.xml?channel_id=UC0NfCCms5KosfsdbYQunFEQ "~Motorcycle Adventures Bulgarian" mototravel
+https://www.youtube.com/feeds/videos.xml?channel_id=UC0VaJBL77wARLD8aCMfrgOA "~Андрей Бересневич" mototravel
+https://www.youtube.com/feeds/videos.xml?channel_id=UC31hb1QSUDAHa5sokZig5Eg "~Кофе с Булочкой" mototravel
+https://www.youtube.com/feeds/videos.xml?channel_id=UCEIs9nkveW9WmYtsOcJBwTg "~Itchy Boots" mototravel
 https://www.youtube.com/feeds/videos.xml?channel_id=UCtHv1zzGSawcksbm7Vj3w6w "~Noren Sterling" mototravel
 https://www.youtube.com/feeds/videos.xml?channel_id=UCP-4Chw6UR0UtIAVfGFZvuw "~SLON RUS" mototravel
-https://www.youtube.com/feeds/videos.xml?channel_id=UC31hb1QSUDAHa5sokZig5Eg "~Timon532" mototravel
 https://www.youtube.com/feeds/videos.xml?channel_id=UCVnui4ltebLkiRT7Ancw2nQ "~MotoRoSt" mototravel
-https://www.youtube.com/feeds/videos.xml?channel_id=UCxVQaUnNBOjqg7Y-nZsnVhQ "~Сергей Гесь" mototravel
 https://www.youtube.com/feeds/videos.xml?channel_id=UCvQ3GhcWwEF0DwP1_0MYZ5Q "~Вадим Калугин" mototravel
-https://www.youtube.com/feeds/videos.xml?channel_id=UCY3mZIqfQh71JZBiWTQ3I7A "~ARiemann1" moto
-https://www.youtube.com/feeds/videos.xml?channel_id=UCDchtzYOrSgb0652enpM1fw "~Two Wheels Three Sheets" mototravel
+https://www.youtube.com/feeds/videos.xml?channel_id=UCdCzEBaIZQy3JXzc06ByNAg "~Bret Tkacs ADV" moto
+https://www.youtube.com/feeds/videos.xml?channel_id=UCWh6PvzNVeOmEU065h-8kUw "~MOTOTREK" moto
+https://aufroad.com/feed/
 
 "--QA---"
-https://www.tjmaher.com/feeds/posts/default?alt=rss
 https://www.youtube.com/feeds/videos.xml?channel_id=UC46Zj8pDH5tDosqm1gd7WTg "~Playwright" qa 
-https://www.youtube.com/feeds/videos.xml?channel_id=UCyoM19qaAlIEYPgDBy12a0w "~Karate" qa
 https://testing.googleblog.com/feeds/posts/default?alt=rss qa
+https://www.testrail.com/feed qa
+https://www.satisfice.com/feed "~James Bach" qa
+https://developsense.com/feed "~Michael Bolton" qa
+https://www.youtube.com/feeds/videos.xml?channel_id=UCLSx18wKnPHK4zLLrV1_fNQ "~James Bach Youtube" qa
 
 "---YouTube Blogs---"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCN2UQVe6Xaqz5rLFaWq8-mw "~Military 1945" yt history
-https://www.youtube.com/feeds/videos.xml?channel_id=UCshVweYiHqrepiq6b8tWvLQ "~Janus Cycle" tech
-https://www.youtube.com/feeds/videos.xml?channel_id=UCl2mFZoRqjw_ELax4Yisf6w "~Louis Rossmann" it
-https://www.youtube.com/feeds/videos.xml?channel_id=UCOppapmiri__CN5uIQCnmOA "~Wings Over T.O." aviation
-https://www.youtube.com/feeds/videos.xml?channel_id=UCBLoPurXAIQXFhCDvNb5WRQ "Скользкий Лёд" hockey
-https://www.youtube.com/feeds/videos.xml?channel_id=UC3w193M5tYPJqF0Hi-7U-2g
-https://www.youtube.com/feeds/videos.xml?channel_id=UCMCgOm8GZkHp8zJ6l7_hIuA "~вДудь"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCF9IOB2TExg3QIBupFtBDxg
-https://www.youtube.com/feeds/videos.xml?channel_id=UCmMk-fawpaaiYj0-YdFVs6w dog
-https://www.youtube.com/feeds/videos.xml?channel_id=UClZCJyVftq6XMBBTCc_N1Nw dog
-https://www.youtube.com/feeds/videos.xml?channel_id=UCt3B6rUXb__X2eMyY7jzgIg "~Bullet Journal" yt
-https://www.youtube.com/feeds/videos.xml?channel_id=UCQfbx_FtaJq5-7_OFgM5kWw "~Sigogglin Jack's EDC" yt
 https://www.youtube.com/feeds/videos.xml?channel_id=UCQuL1wpN5RHCSgd38-DsE3w "~Blank First Page" yt
 https://www.youtube.com/feeds/videos.xml?channel_id=UC5mPJA4y5G8Z6aNkY6AxgAw "~Van Neistat" yt blog
-https://www.youtube.com/feeds/videos.xml?channel_id=UCnvMBVMXMPKA4Lmy5Ihd-FQ
-https://www.youtube.com/feeds/videos.xml?channel_id=UCIhJnsJ0IHlVNnYfp-gw_5Q "~The Deep Life with Cal Newport"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCnvMBVMXMPKA4Lmy5Ihd-FQ "~Scott P. Scheper"
 
 "---Bible---"
-https://www.streetpreaching.com/feed/ "~Gerald Sutek" preaching
-https://www.youtube.com/feeds/videos.xml?channel_id=UCdlP7t8hHbJkwI8P9cuoNZg "~Церковь Библейских Верующих Киева"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCctXuPorHnV0NyS0wXIBnqA "~ББЦ Троица"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCFHwH6YuuMX_DqO7OPVS-Zw "~Old School Bible Baptist"
+https://utlm.org/feed/ "~Utah Lighthouse Ministry"
+https://www.timefortruth.co.uk/rss "~Time For Truth UK"
 
-"---Podcasts---"
-https://rss.sermonaudio.com/rss_source.rss?sourceid=holyhillsbaptist&filter=mp3 "~Holy Hills Baptist Church" podcast kjv
-https://anchor.fm/s/2e116a74/podcast/rss "~Real Bible Believers" podcast kjv
-https://rss.sermonaudio.com/rss_source.rss?sourceid=cbcflorida "~Dr. David Walker" podcast kjv
-https://rss.sermonaudio.com/rss_source.rss?sourceid=bbbcjax "~Dr. David Peacock" podcast kjv
-http://rss.sermonaudio.com/rss_source.rss?sourceid=bbbc-canton "~Dr. Mike Wheeler" podcast kjv
-https://www.sermonaudio.com/rss_source.asp?sourceid=bbcosl "~Pastor Mike Ragan" podcast kjv
-https://feeds.megaphone.fm/WWO9873389006 "~The Cold War: Prelude To The Present" podcast
-https://feed.podbean.com/www.thewordofaking.com/feed.xml "~The WORD of a KING" podcast
-https://adventureriderpodcast.libsyn.com/rss "~Adventure Rider Radio" podcast moto
-https://lexfridman.com/feed/podcast/ "~Lex Freedman"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCd1ATyiaf0u0uV_pvPTUEFg "~The Ranch Podcast"
+"--Podcast--"
+http://feeds.rucast.net/Umputun "~Еженедельный подкаст от Umputun" podcast

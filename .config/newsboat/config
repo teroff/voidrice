@@ -4,7 +4,8 @@ auto-reload yes
 external-url-viewer "urlscan -dc -r 'linkhandler {}'"
 history-limit 1000
 max-items 1000
-show-read-feeds  no
+show-read-feeds no
+cleanup-on-quit	yes
 
 # Key binding
 bind-key j down
@@ -55,6 +56,8 @@ macro w set browser "lynx" ; open-in-browser ; set browser linkhandler
 
 # Newsboat article settings
 save-path "~/Documents/Neswboat Articles"
+ignore-article "https://www.youtube.com/feeds/videos.xml?channel_id" "link # \"shorts\""
+ignore-mode "download"
 
 # Podboat Settings
 podcast-auto-enqueue yes
