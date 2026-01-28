@@ -19,8 +19,17 @@
                 vterm-mode-hook
                 ansi-term-mode-hook
                 org-agenda-mode-hook
-                org-mode-hook))
-  (add-hook hook (lambda () (display-line-numbers-mode 0))))
+                ))
+    (add-hook hook (lambda () (display-line-numbers-mode 0))))
+
+;; --------------------
+;; Keybindings
+;; --------------------
+
+(global-set-key (kbd "C-c l") #'org-store-link)
+(global-set-key (kbd "C-c a") #'org-agenda)
+(global-set-key (kbd "<f6>")  #'org-capture)
+(global-set-key (kbd "<f7>")  #'org-refile)
 
 ;; --------------------
 ;; Org mode
@@ -39,8 +48,8 @@
   ;; TODO workflow
  org-todo-keywords
  '((sequence
-    "NEXT(n)"
     "TODO(t)"
+    "NEXT(n)"
     "WAITING(w)"
     "SOMEDAY(s)"
     "PROJECT(p)"
