@@ -48,8 +48,8 @@
   ;; TODO workflow
  org-todo-keywords
  '((sequence
-    "TODO(t)"
     "NEXT(n)"
+    "TODO(t)"
     "WAITING(w)"
     "SOMEDAY(s)"
     "PROJECT(p)"
@@ -78,7 +78,8 @@
  '(org-agenda-files "~/.emacs.d/.agenda_files")
  '(org-refile-allow-creating-parent-nodes 'confirm)
  '(org-refile-targets '((org-agenda-files :level . 1)))
- '(org-refile-use-outline-path 'file))
+ '(org-refile-use-outline-path 'file)
+ '(org-startup-folded 'fold))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
